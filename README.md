@@ -1,3 +1,6 @@
+.
+
+
 
 
 # [Project Online Reporting with Power BI](https://www.linkedin.com/learning/project-online-reporting-with-power-bi/creating-detailed-project-reports-with-power-bi?resume=false)
@@ -5,14 +8,15 @@
 
 
 
+
 ## Course details
 
 
-
-### Intermediate
-
-
 Learn about how to create clear, visually compelling project reports with the Power BI interactive data visualization tools in Microsoft Project Online. In this course, John Riopel, PMP, offers an overview of Power BI, explaining how it can be used to create more robust project reports. John starts with the basics, explaining the main components of Power BI and demonstrating how to work with tables, filter the right data using slicers, and format a basic report. Next, John covers intermediate features such as using samples and content packs, working with measures, and using conditional formatting. Finally, John shows how to work with advanced features such as creating and fine-tuning dashboards, merging datasets, and adding custom visuals to a report.
+
+
+
+.
 
 
 
