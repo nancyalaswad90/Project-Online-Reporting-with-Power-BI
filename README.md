@@ -9,7 +9,6 @@
 
 
 
-### [Nancy Al Aswad Power BI profile](https://app.powerbi.com/home?noSignUpCheck=1&redirectedFromSignup=1&username=2180385@s.aou.edu.jo&AutomaticLogin=true)
 
 ## Course details
 
@@ -49,3 +48,20 @@ Learn about how to create clear, visually compelling project reports with the Po
 - Sharing and publishing reports
 
 - Embedding reports in Project Online
+
+
+
+.
+
+
+
+.
+
+
+
+
+
+### [Nancy Al Aswad Power BI profile](https://app.powerbi.com/home?noSignUpCheck=1&redirectedFromSignup=1&username=2180385@s.aou.edu.jo&AutomaticLogin=true)
+
+
+- **[Learn how to Use DAX in Power BI Reference](https://docs.microsoft.com/en-us/learn/)
